@@ -13,3 +13,6 @@ data/
 
 # Configuración local
 .env
+
+# Notebooks temporales
+.ipynb_checkpoints/
