@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Datos locales
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Configuración local
+.env
