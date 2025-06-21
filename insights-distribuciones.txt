@@ -1,0 +1,48 @@
+🧠 Insights iniciales por categoría
+
+👥 Usuarios
+Edad: Mayor concentración de usuarios entre 25-44 años. Público objetivo claro.
+
+País y ciudad: Hay concentración en pocos países y ciudades. Esto puede guiar campañas geolocalizadas.
+
+Plan: Dominan los planes estándar, muy poca adopción de premium. Hay espacio para impulsar upgrades.
+
+Crypto: Muy baja adopción de la funcionalidad cripto (77% no la usa). Falta de interés o desconocimiento.
+
+Canales de notificación: EMAIL y PUSH dominan, SMS y "Unknown" casi nulos. Se puede reconsiderar el uso de SMS.
+
+Referidos exitosos: Muy baja participación en el programa. Falta incentivos o visibilidad.
+
+Marca de dispositivo: Distribución pareja entre Android e iOS. Optimización debe considerar ambos.
+
+
+
+🔄 Transacciones
+Estado: Alta proporción de transacciones completadas; pocas fallidas o rechazadas, lo cual es positivo.
+
+Tipo y dirección: Las transacciones de compra y hacia afuera dominan. Se puede incentivar otros usos.
+
+Moneda: USD predomina ampliamente. Otras monedas son marginales.
+
+Monto (USD): Distribución sesgada a la izquierda; la mayoría de montos son pequeños. El boxplot confirma outliers.
+
+Presencia física: Mayoría no presencial. El canal digital es dominante.
+
+
+
+⏱️ Temporalidad
+Serie de tiempo de transacciones: Crecimiento sostenido hasta cierto punto. Caída al final puede ser por datos incompletos.
+
+Notificaciones: Picos visibles que podrían alinearse con campañas o problemas técnicos.
+
+Días, semanas y meses: Se observa estacionalidad que puedes cruzar con eventos de negocio o marketing.
+
+
+
+🔔 Notificaciones
+Motivo: Algunos motivos tienen muy alto volumen. Podrías analizar si generan acciones (clicks, transacciones).
+
+Estado: Alta tasa de entregadas (bien), aunque aún hay fallas.
+
+Canal: Email y push dominan; puedes testear A/B para efectividad de cada uno.
+
